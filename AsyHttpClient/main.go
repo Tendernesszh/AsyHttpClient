@@ -2,6 +2,8 @@ package main
 
 import (
 	"fmt"
+	"github.com/Tendernesszh/AsyHttpClient/work"
+	"github.com/Tendernesszh/AsyHttpClient/agency"
 )
 
 func main() {
