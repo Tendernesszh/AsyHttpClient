@@ -3,8 +3,7 @@ package work
 import (
 	"fmt"
 	"time"
-
-	"github.com/Naive-vs-Reactive/agency"
+	"github.com/Tendernesszh/AsyHttpClient/agency"
 )
 
 func synchronous() [10]agency.Infomation {
