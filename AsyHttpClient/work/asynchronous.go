@@ -1,7 +1,7 @@
 package work
 import (
     "agency"
-    "time"
+    "fmt"
     "github.com/Tendernesszh/AsyHttpClient/agency"
 )
 func asynchronous() [10]agency.Infomation {
